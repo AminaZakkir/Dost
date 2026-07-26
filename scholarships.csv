@@ -1,0 +1,46 @@
+name,category,income_limit,state,deadline,amount,documents,link,stream
+AICTE Pragati Scholarship,General,800000,All India,October 31,50000,"Aadhaar+Fee Receipt+Income Certificate",https://scholarships.gov.in,Engineering
+NSP Post Matric Scholarship,SC,250000,All India,November 15,12000,"Aadhaar+Income Certificate+Caste Certificate+Bank Passbook",https://scholarships.gov.in,All
+NSP Pre Matric Scholarship,ST,250000,All India,November 15,8000,"Aadhaar+Income Certificate+Caste Certificate",https://scholarships.gov.in,All
+Central Sector Scheme,General,450000,All India,November 15,20000,"Aadhaar+12th Marksheet+Bank Passbook",https://scholarships.gov.in,All
+NSP Minority Scholarship,Minority,200000,All India,October 31,10000,"Aadhaar+Minority Certificate+Income Certificate",https://scholarships.gov.in,All
+PM YASASVI Scholarship,OBC,250000,All India,November 15,75000,"Aadhaar+OBC Certificate+Income Certificate+Marksheet",https://scholarships.gov.in,All
+AICTE Saksham Scholarship,Differently Abled,800000,All India,October 31,30000,"Aadhaar+Disability Certificate+Fee Receipt",https://aicte-india.org,Engineering
+AICTE Swanath Scholarship,General,800000,All India,October 31,50000,"Aadhaar+Fee Receipt+Death Certificate of Parent",https://aicte-india.org,Engineering
+Begum Hazrat Mahal Scholarship,Minority,200000,All India,October 31,12000,"Aadhaar+Minority Certificate+Marksheet",https://minorityaffairs.gov.in,All
+Maulana Azad National Fellowship,Minority,250000,All India,March 31,25000,"Aadhaar+Minority Certificate+Income Certificate+Marksheet",https://minorityaffairs.gov.in,All
+Indira Gandhi Single Girl Scholarship,General,200000,All India,December 31,36200,"Aadhaar+12th Marksheet+Bank Passbook+Single Girl Affidavit",https://ugc.ac.in,All
+Inspire Scholarship DST,General,800000,All India,October 31,80000,"Aadhaar+12th Marksheet+Bank Passbook+Admission Letter",https://online-inspire.gov.in,BSc
+EBC Post Matric Scholarship,General,250000,All India,November 15,15000,"Aadhaar+Income Certificate+Marksheet+Bank Passbook",https://scholarships.gov.in,All
+Vidyasaarathi Scholarship,General,600000,All India,December 31,50000,"Aadhaar+Income Certificate+Marksheet+Bank Passbook",https://vidyasaarathi.co.in,All
+Dhirubhai Ambani Scholarship,General,600000,All India,May 31,40500,"Aadhaar+Income Certificate+Marksheet+Bank Passbook",https://reliancefoundation.org,All
+Kerala HEC UG Scholarship,General,200000,Kerala,May 24,24000,"Aadhaar+Income Certificate+Marksheet+Bank Passbook",https://scholarship.kshec.kerala.gov.in,All
+Kerala DCE SC Scholarship,SC,150000,Kerala,December 15,18000,"Aadhaar+Caste Certificate+Income Certificate",https://dcescholarship.kerala.gov.in,All
+Kerala Minority Scholarship,Minority,200000,Kerala,October 31,15000,"Aadhaar+Minority Certificate+Income Certificate",https://dcescholarship.kerala.gov.in,All
+Kerala eGrantz SC ST Scholarship,SC,500000,Kerala,December 15,20000,"Aadhaar+Caste Certificate+Income Certificate+Fee Receipt",https://egrantz.kerala.gov.in,All
+KSFDC Scholarship,SC,100000,Kerala,December 15,10000,"Aadhaar+Caste Certificate+Marksheet",https://ksfdc.in,All
+Prof Joseph Mundassery Scholarship,Minority,800000,Kerala,November 30,15000,"Aadhaar+Minority Certificate+Marksheet+Income Certificate",https://minoritywelfare.kerala.gov.in,All
+CH Muhammedkoya Scholarship,Minority,800000,Kerala,November 30,10000,"Aadhaar+Minority Certificate+Marksheet+50 percent marks proof",https://minoritywelfare.kerala.gov.in,All
+APJ Abdul Kalam Scholarship,Minority,800000,Kerala,November 30,6000,"Aadhaar+Minority Certificate+Income Certificate+Admission Proof",https://minoritywelfare.kerala.gov.in,All
+Bhinnaseshy Souhrida Scholarship,Differently Abled,500000,Kerala,December 31,15000,"Aadhaar+Disability Certificate+Institution Certificate",https://dcescholarship.kerala.gov.in,All
+Kerala State Merit Scholarship,General,100000,Kerala,October 31,12000,"Aadhaar+Income Certificate+12th Marksheet+Merit Proof",https://dcescholarship.kerala.gov.in,All
+TN Post Matric SC ST Scholarship,SC,250000,Tamil Nadu,October 31,15000,"Aadhaar+Caste Certificate+Income Certificate+Marksheet",https://tnscst.tn.gov.in,All
+TN BC MBC Scholarship,OBC,120000,Tamil Nadu,October 31,5000,"Aadhaar+Community Certificate+Income Certificate+Marksheet",https://tnscholarship.tn.gov.in,All
+TN First Graduate Scholarship,General,800000,Tamil Nadu,October 31,27500,"Aadhaar+First Graduate Certificate+Admission Proof+Bank Passbook",https://tndce.tn.gov.in,All
+TN Pudhumai Penn Scholarship,General,800000,Tamil Nadu,October 31,1000,"Aadhaar+College ID+Bank Account Details",https://pudhupenn.tn.gov.in,All
+TN EVR Nagammai Scholarship,General,200000,Tamil Nadu,October 31,10000,"Aadhaar+Income Certificate+PG Admission Proof+Marksheet",https://tndce.tn.gov.in,Arts
+TN Differently Abled Scholarship,Differently Abled,500000,Tamil Nadu,October 31,7000,"Aadhaar+Disability Certificate+Income Certificate+Marksheet",https://tndce.tn.gov.in,All
+TN Minority Post Matric Scholarship,Minority,200000,Tamil Nadu,October 31,10000,"Aadhaar+Minority Certificate+Income Certificate+Marksheet",https://tnminority.tn.gov.in,All
+TN Perarignar Anna Award,OBC,250000,Tamil Nadu,October 31,20000,"Aadhaar+Community Certificate+12th Marksheet+Merit Proof",https://tnscholarship.tn.gov.in,All
+TN SC ST Overseas Scholarship,SC,500000,Tamil Nadu,March 31,90000,"Aadhaar+Caste Certificate+Admission Letter+Passport",https://tnscst.tn.gov.in,All
+TN Chief Minister Fellowship,General,800000,Tamil Nadu,October 31,75000,"Aadhaar+Admission Letter+Income Certificate+Marksheet",https://tndce.tn.gov.in,All
+TN Tamil Pudhalvan Scheme,General,800000,Tamil Nadu,October 31,1000,"Aadhaar+College ID+Bank Account Details",https://tndce.tn.gov.in,All
+TN Merit Cum Means Scholarship,Minority,250000,Tamil Nadu,October 31,12000,"Aadhaar+Minority Certificate+Income Certificate+50 percent marks proof",https://tnminority.tn.gov.in,All
+TN Pre Matric Minority Scholarship,Minority,100000,Tamil Nadu,October 31,5000,"Aadhaar+Minority Certificate+Income Certificate+Marksheet",https://tnminority.tn.gov.in,All
+TN Adi Dravidar Welfare Scholarship,SC,250000,Tamil Nadu,October 31,12000,"Aadhaar+Caste Certificate+Income Certificate+Marksheet",https://adwelfare.tn.gov.in,All
+TN Tribal Welfare Scholarship,ST,250000,Tamil Nadu,October 31,12000,"Aadhaar+Tribe Certificate+Income Certificate+Marksheet",https://adwelfare.tn.gov.in,All
+TN Girl Student Nursing Scholarship,General,300000,Tamil Nadu,October 31,10000,"Aadhaar+Nursing Admission Proof+Income Certificate+Marksheet",https://tndce.tn.gov.in,Medicine
+TN Engineering First Graduate Scholarship,General,800000,Tamil Nadu,October 31,27500,"Aadhaar+First Graduate Certificate+Engineering Admission Proof",https://tndte.tn.gov.in,Engineering
+TN Law Students Scholarship,General,200000,Tamil Nadu,October 31,8000,"Aadhaar+Law Admission Proof+Income Certificate+Marksheet",https://tndce.tn.gov.in,Arts
+TN Sports Scholarship,General,500000,Tamil Nadu,December 31,15000,"Aadhaar+Sports Certificate+Income Certificate+Marksheet",https://tnscholarship.tn.gov.in,All
+TN BC Muslim Scholarship,Minority,120000,Tamil Nadu,October 31,6000,"Aadhaar+Community Certificate+Income Certificate+Marksheet",https://tnminority.tn.gov.in,All
